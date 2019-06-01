@@ -28,3 +28,8 @@ int main(int argc, char const *argv[])
 	/* code */
 	return 0;
 }
+
+int a(int a)
+{
+	return 0;
+}
