@@ -9,6 +9,7 @@ void functionB() {
 	printf("rat la dep trai\n");
 	printf("co nguoi yeu\n");
 	printf("lai con hoc gioi nua\n");
+	printf("xaolin\n");
 }
 
 
