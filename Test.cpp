@@ -7,9 +7,8 @@ void functionB() {
 	printf("Nguyen Van Dien\n");
 	printf("que Bac Ninh\n");
 	printf("rat la dep trai\n");
-
+	printf("co nguoi yeu\n");
 	printf("lai con hoc gioi nua\n");
-
 }
 
 
