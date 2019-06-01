@@ -3,7 +3,10 @@
 int num1 = 1;
 int num2 = 2;
 
-
+void functionB() {
+	printf("Nguyen Van Dien\n");
+	printf("rat la dep trai\n");
+}
 
 
 int sum(int a, int b) {
