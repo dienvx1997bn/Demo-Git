@@ -26,7 +26,7 @@ void hello() {
 int main(int argc, char const *argv[])
 {
 	/* code */
-
+	printf("Them  dong so 1\n");
 	return 0;
 }
 
