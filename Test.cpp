@@ -27,8 +27,8 @@ int main(int argc, char const *argv[])
 {
 	/* code */
 	printf("Them  dong so 1\n");
-
 	printf("them dong so 2 moi\n");
+
 	return 0;
 }
 
